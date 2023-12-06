@@ -1,5 +1,5 @@
 # ML-Forecasting-Methods
-Supervised and Unsupervised ML methods for forecasting
+Supervised ML methods for forecasting
 
 - Best Subset Method
 - Forward Stepwise Selection
